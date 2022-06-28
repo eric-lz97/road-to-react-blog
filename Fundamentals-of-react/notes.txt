@@ -1,0 +1,3 @@
+JavaScript classes and React components are not related.
+
+Classes are most used in object-oriented programming languages 
